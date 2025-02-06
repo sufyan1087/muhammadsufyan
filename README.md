@@ -1,3 +1,5 @@
+#show_downloads: true
+
 # Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
